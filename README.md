@@ -2,6 +2,8 @@
 - Currently learning in general
 - I’m looking to collaborate on open source
 <!---
+
+
 - I’m interested in ...
 - How to reach me ...
 --->
