@@ -1,6 +1,8 @@
-- Hi, I’m Rick 
-- Currently learning in general
-- I’m looking to collaborate on open source
+Hi, I’m Rick.
+- I'm a Uni student.
+- Interested in open source. 
+- Eager to learn new things.
+
 <!---
 
 
